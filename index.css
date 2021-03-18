@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300&display=swap');
+
+
+.home_page{
+    text-align: center;
+    padding: 49px 0 0 0;
+    
+}
+
+.home_page a{
+    text-decoration: none !important;
+    list-style-type: none !important;
+    color: black;
+    padding: 4px 9px;
+    transition: 0.3s;
+}
+
+.home_page a:hover{
+    color: white;
+    background: #3F51B5;
+}
+
+.el{
+    padding: 0 0 67px 0;
+    text-align: center;
+    align-items: center;
+    margin-top: 226px;
+    border-bottom: 1px solid #F0F0F0;
+}
+
+.el h1{
+    margin-top: 28px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+}
+
+.el p{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.el svg{
+    margin-right: 25px;
+    margin-top: 26px;
+}
+
+.el_two{
+    text-align: center;
+}
+
+.el_two p{
+    margin-top: 64px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.el_three p{
+    line-height: 27px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.el_three h1{
+    margin-top: 118px;
+    margin-bottom: 26px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+}
+
+.el_five h2{
+    margin-top: 118px;
+    margin-bottom: 26px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+}
+
+.el_five p{
+    line-height: 27px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.el_six h2{
+    margin-top: 118px;
+    margin-bottom: 26px;
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+}
+
+.el_six p{
+    line-height: 27px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.el_six{
+    border-bottom: 1px solid #F0F0F0;
+}
+
+.el_seven{
+    text-align: center;
+}
+
+.el_seven p{
+    margin-top: 65px;
+    line-height: 27px;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.lo{
+    margin-top: 65px;
+    line-height: 27px;
+    font-family: 'Roboto Mono', monospace;
+    color: #555555;
+}
+
+.lo p{
+    color: #1A1A1A;
+}
+
+.lo a{
+    list-style-type: none !important;
+    text-decoration: none !important;
+    color: #1A1A1A;
+}
+
+.lo_end a{
+    list-style-type: none !important;
+    text-decoration: none !important;
+    color: #1A1A1A;
+}
+
+.lo_end{
+    margin-top: 65px;
+    line-height: 27px;
+    font-family: 'Roboto Mono', monospace;
+    color: #555555;
+    border-bottom: 1px solid #F0F0F0;
+}
+
+.lo_end{
+    color: #1A1A1A;
+}
+
+.el_end{
+    padding: 0 0 36px 0;
+    text-align: center;
+    align-items: center;
+    margin-top: 116px;
+}
+
+.el_end h1{ 
+    margin-top: 28px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+}
+
+.elz{
+    text-align: center;
+}
+
+.end{
+    align-items: center;
+    justify-content: space-between;
+}
+
+.end svg{
+    margin-left: 25px;
+}
